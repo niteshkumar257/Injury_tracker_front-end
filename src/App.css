@@ -1,0 +1,19 @@
+img{
+  height: 500px;
+  width: 200px;
+}
+.red-circle{
+  position:absolute;
+  width: 10px; 
+  height: 10px;
+  background-color: red;
+  border-radius: 50%; 
+  display: inline-block;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+.red-circle span{
+  font-size: .5rem;
+}
